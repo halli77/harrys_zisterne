@@ -31,7 +31,7 @@
 ```
 Fläche: a * (c + d) + b * d
 
-## Höhe
+## Wasserstand
 
 
 ```
@@ -43,7 +43,7 @@ ________________         _
                          _ Füllstand max
 |               |        |
 |               |        |
-|      _        |        | aktueller Wasserstand
+|      _        |        _ Wassterstand
 |               |        |  
 |               |        |
 |               |        |      
@@ -51,5 +51,11 @@ ________________         _
 |_______________|        _ Füllstand min
 
 ```
-Höhe: 
+Wasserstand = Messwert - z
+
+## Füllstand
+
+Füllstand in Liter = Fläche * Wasserstand * 1000
+
+## Entitäten
 
