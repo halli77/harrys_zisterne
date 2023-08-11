@@ -31,5 +31,25 @@
 ```
 Fläche: a * (c + d) + b * d
 
+## Höhe
 
+
+```
+    Sensor
+________________         _
+                         |
+                         | z (Abstand Sensor Unterkante zu Füllstand max) 
+                         |
+                         _ Füllstand max
+|               |        |
+|               |        |
+|      _        |        | aktueller Wasserstand
+|               |        |  
+|               |        |
+|               |        |      
+|               |        |
+|_______________|        _ Füllstand min
+
+```
+Höhe: 
 
