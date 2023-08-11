@@ -59,3 +59,5 @@ Füllstand in Liter = Fläche * Wasserstand * 1000
 
 ## Entitäten
 
+Füllstand in Litern
+Füllstand in Prozent
