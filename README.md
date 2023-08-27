@@ -2,7 +2,7 @@
 
 ## Hardware
 * Raspberry Pi 3
-* The Things Indoor Gateway
+* The Things Indoor Gateway TBMH100 Minihub
 * Dragino LDDS75
 
 ## Software
