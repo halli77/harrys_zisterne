@@ -19,7 +19,8 @@ function decodeUplink(input) {
         distanceInMm: distanceInMm,
         distanceInCm: distanceInCm,
         distanceInM: distanceinM,
-        currentTimestamp: Math.floor(Date.now() / 1000)
+        currentTimestamp: Math.floor(Date.now() / 1000),
+        currentIsoTime: Date.toISOString()
       },
       warnings: [], // optional
       errors: [] // optional (if set, the decoding failed)
