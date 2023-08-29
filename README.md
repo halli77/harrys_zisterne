@@ -1,4 +1,4 @@
-# harrys_zisterne
+# Harrys Zisterne
 
 ## Hardware
 * Raspberry Pi 3
@@ -6,7 +6,7 @@
 * Dragino LDDS75
 
 ## Software
-* Home assistant
+* Home Assistant
 * The Things Network
 
 
