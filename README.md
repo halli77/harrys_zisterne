@@ -8,6 +8,7 @@
 ## Software
 * Home Assistant
 * The Things Network
+* https://github.com/RomRider/apexcharts-card
 
 
 ## Wasserstand
@@ -30,13 +31,5 @@ ________________         _
 |_______________|        _ Füllstand min
 
 ```
-Wasserstand = Messwert - z
 
-## Füllstand
 
-Füllstand in Liter = Fläche * Wasserstand * 1000
-
-## Entitäten
-
-Füllstand in Litern
-Füllstand in Prozent
